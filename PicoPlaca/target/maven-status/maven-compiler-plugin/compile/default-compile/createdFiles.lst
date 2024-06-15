@@ -1,0 +1,3 @@
+com\example\picoplaca\config\WebConfig.class
+com\example\picoplaca\PicoPlacaApplication.class
+com\example\picoplaca\controller\PicoPlacaController.class
