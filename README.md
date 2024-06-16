@@ -6,7 +6,7 @@
 2. Maven: Tener instalado Apache Maven.
 
 # Clonar o descargar el proyecto usando el IDE de preferencia
-git clone 
+git clone https://github.com/JORGE1617/pico-placa-backend.git
 
 # Ejecutar el comando 
 mvn clean install
